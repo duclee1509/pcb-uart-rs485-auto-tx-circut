@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=485 NewDesignator=IC?
+Change Component Designator: OldDesignator=C NewDesignator=C?
+Change Component Designator: OldDesignator=FET NewDesignator=Q?
+Change Component Designator: OldDesignator=LED NewDesignator=LED?
+Added Component: Designator=R6(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Class"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Generic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "08/06/2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Hobart Technology Centre"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubClass"; Value = "R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_1 Pin=R6-1
+Added Pin To Net: NetName=NetC4_2 Pin=R6-2
+Change Class Name : Old Net Name=Sch_1_layer New Net Name=Schematic
+Added Member To Class: ClassName=Schematic Member=Component R6 120
+Added Room: Name=Schematic
