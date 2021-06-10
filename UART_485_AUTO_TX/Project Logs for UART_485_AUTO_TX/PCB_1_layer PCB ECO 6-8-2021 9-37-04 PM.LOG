@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetIC2_7 Pin=JP3-1
+Removed Pin From Net: NetName=NetIC2_6 Pin=JP3-2
+Added Pin To Net: NetName=NetIC2_6 Pin=JP3-1
+Added Pin To Net: NetName=NetIC2_7 Pin=JP3-2
+Added Room: Name=Schematic
