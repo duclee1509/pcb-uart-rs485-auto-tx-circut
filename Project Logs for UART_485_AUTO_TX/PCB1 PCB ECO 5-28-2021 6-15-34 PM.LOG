@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=Q?-2
+Removed Pin From Net: NetName=NetIC?_2 Pin=Q?-3
+Change Component Footprint: Designator=Q? Old Footprint=SOT23 New Footprint=QTO-220
+Change Component Comment : Designator=Q? Old Comment=Si2302DS New Comment=IRF840
+Change component parameters: Designator = "Q?"; Footprint = "QTO-220"; UniqueID = "\UBVHLCKO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "IRF840"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC?_2 Pin=Q?-2
+Added Pin To Net: NetName=GND Pin=Q?-3
+Added Room: Name=Sheet1
